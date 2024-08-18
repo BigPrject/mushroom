@@ -1,0 +1,5 @@
+# Ignore the virtual environment directory
+env/
+#Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+Data/
