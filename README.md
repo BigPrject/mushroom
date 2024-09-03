@@ -8,6 +8,8 @@ insights from the following notebooks:
 https://www.kaggle.com/competitions/playground-series-s4e8/discussion/524434
 https://www.kaggle.com/competitions/playground-series-s4e8/discussion/527194
 
+Final score of .9845
+
 ##Extra
 With 3 million rows, It's impractical to really go through and scrub data 
 sufficently, I think the approach of just assigning missing data with its own
